@@ -1,2 +1,2 @@
 # CSharp
-Aqui deposito minhas atividades
+Aqui deposito minhas atividades de lógica 
